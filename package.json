@@ -1,0 +1,34 @@
+{
+  "name": "BoobelJS",
+  "version": "1.0.0",
+  "description": "Translate front-end frameworks",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nominalaeon/boobel.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "Foundation"
+  ],
+  "author": "BoobelJS Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nominalaeon/boobel/issues"
+  },
+  "homepage": "https://github.com/nominalaeon/boobel#readme",
+  "devDependencies": {
+    "fs-sync": "^1.0.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "parse-filepath": "^0.6.3",
+    "path": "^0.12.7"
+  }
+}
